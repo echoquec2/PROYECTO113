@@ -1,0 +1,55 @@
+body{font-family: "Handlee", cursive;
+font-size: 13pt;
+color: white;
+text-align:justify;
+margin:50px;
+background: url(fondo1.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+}
+#imagen1{width: 40%;
+height: 40%;}
+h1{text-align: center;
+background-color: DodgerBlue;
+border: 2px solid tomato;
+border-radius: 10px;
+padding: 15px;
+text-decoration: underline;
+ text-shadow: 2px 2px 4px #000000;
+}
+h3{background-color: tomato;
+border: 2px solid mediumseagreen;
+border-radius: 10px;
+padding: 15px;
+}
+p{background-color: #6EBFB5;
+padding: 15px;
+border: 2px solid #ff3333;
+border-radius: 10px;}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 2px;
+  text-align: center;
+  text-decoration: none;
+  display:block;
+  border-radius: 10px;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+#centrear{text-align: center;}
+img{border-radius: 10px;
+border: 2px solid yellow;}
+h2{background-color: tomato;
+border: 2px solid mediumseagreen;
+border-radius: 10px;
+padding: 15px;
+width: 700px%;
+}
